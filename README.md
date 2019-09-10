@@ -1,8 +1,6 @@
 
 ## 饮冰先生的博客
 
-![_20181225160226](https://user-images.githubusercontent.com/2127462/50417028-afbf2b00-085e-11e9-8150-f148a528c5a5.png)
-
 这是 [饮冰先生的博客](https://myanbin.github.io/) 的源码，使用 Jekyll 来生成静态网页。
 
 
